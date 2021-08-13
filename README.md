@@ -13,17 +13,13 @@
 
 
 
-        </ol>
             <P><a href="https://www.google.com">رفتن به موتور جستجوی گوگل</a></P>
             <P><a href="https://www.instagram.com/bambo.shimi_1401/">رفتن به کانال اینستاگرام ما </a></P>
  
         
-            
-        </ol>
+         
 
 
-
-        </lU>
 
 
 
@@ -40,7 +36,7 @@
     
     
     
-   <BUtton style="border: 10mm; fill: rgb(0, 255, 234);">              submit                   </BUtton>
+
  
 
 
